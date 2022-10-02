@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Konstantin Savin
+# 👋 Hi, I’m Konstantin Savin
 
 ============
 
@@ -10,13 +10,13 @@
 
 
 ----------
-- 👀 ...
-- 
+# 👀 ...
+
 I'm a mining engineer, about 10 years. I like to code and i can spend a lot of time doing intresting projects
 
 ----------
 
-- 🌱 ... 
+# 🌱 ... 
 
 * HTML
 * CSS
@@ -24,7 +24,7 @@ I'm a mining engineer, about 10 years. I like to code and i can spend a lot of t
 * SQL
 * Windows OS, Linux(Ubuntu, Debian, Kali)
 
-Education
+# Education
 ---------
 
 * ZABAYKAL'SKIY State University, mining faculty**; (Chita)
@@ -33,7 +33,7 @@ Education
 * FreeCodecamp
 
 
-Languages
+# Languages
 ----------------------------------------
 * Russian - Native
 * English - Elementary
