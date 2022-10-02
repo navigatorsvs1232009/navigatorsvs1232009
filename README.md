@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Konstantin Savin
 
-============
+
 
 - 📫 How to reach me ...
 
@@ -8,13 +8,10 @@
 #### E-mail: navigatorsvs@gmail.com
 #### Telegram: @navigatorsvs
 
-
-----------
 # 👀 ...
 
 I'm a mining engineer, about 10 years. I like to code and i can spend a lot of time doing intresting projects
 
-----------
 
 # 🌱 ... 
 
@@ -25,7 +22,6 @@ I'm a mining engineer, about 10 years. I like to code and i can spend a lot of t
 * Windows OS, Linux(Ubuntu, Debian, Kali)
 
 # Education
----------
 
 * ZABAYKAL'SKIY State University, mining faculty**; (Chita)
 * Html academy
@@ -34,6 +30,6 @@ I'm a mining engineer, about 10 years. I like to code and i can spend a lot of t
 
 
 # Languages
-----------------------------------------
+
 * Russian - Native
 * English - Elementary
