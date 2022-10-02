@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Konstantin Savin
-- 
-============
-- 📫 How to reach me ...
+
 ============
 
-## Contact information
+- 📫 How to reach me ...
 
 #### Skype: live:navigatorsvs
 #### E-mail: navigatorsvs@gmail.com
