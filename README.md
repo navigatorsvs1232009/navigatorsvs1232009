@@ -12,7 +12,7 @@
 ----------
 I'm a mining engineer, about 10 years. I like to code and i can spend a lot of time doing intresting projects
 
-- 🌱 I’m currently learning ...
+- 🌱 
 ----------
 
 * HTML
