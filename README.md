@@ -7,6 +7,7 @@
 #### Skype: live:navigatorsvs
 #### E-mail: navigatorsvs@gmail.com
 #### Telegram: @navigatorsvs
+#### My-rezume: https://clck.ru/32Knkc
 
 # 👀 ...
 
