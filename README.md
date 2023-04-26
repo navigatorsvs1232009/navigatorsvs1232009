@@ -21,6 +21,7 @@ I'm a JavaScript/Front-end engineer. I like to code and i can spend a lot of tim
 * CSS
 * Javascript
 * SQL
+* XML
 * Windows OS, Linux(Ubuntu, Debian, Arch, Red Os)
 
 # Education
