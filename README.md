@@ -5,22 +5,23 @@
 - 📫 How to reach me ...
 
 #### Skype: live:navigatorsvs
-#### E-mail: navigatorsvs@gmail.com
-#### Telegram: @navigatorsvs
+#### E-mail: ks5470219@gmail.com
+#### Telegram: @ks547
 #### My-rezume: https://clck.ru/32Knkc
 
 # 👀 ...
 
-I'm a mining engineer, about 10 years. I like to code and i can spend a lot of time doing intresting projects
+I'm a JavaScript/Front-end engineer. I like to code and i can spend a lot of time doing intresting projects
 
 
 # 🌱 ... 
 
+* PHP
 * HTML
 * CSS
 * Javascript
 * SQL
-* Windows OS, Linux(Ubuntu, Debian, Kali)
+* Windows OS, Linux(Ubuntu, Debian, Arch, Red Os)
 
 # Education
 
@@ -28,6 +29,7 @@ I'm a mining engineer, about 10 years. I like to code and i can spend a lot of t
 * Html academy
 * SQL academy
 * FreeCodecamp
+* The Rolling Scopes
 
 
 # Languages
