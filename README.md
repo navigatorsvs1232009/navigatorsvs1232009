@@ -23,6 +23,7 @@ I like to code and i can spend a lot of time doing intresting projects
 
 # Education
 
+* OTUS
 * ZABAYKAL'SKIY State University, mining faculty**; (Chita)
 * Html academy
 * SQL academy
